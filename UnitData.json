@@ -1,0 +1,22 @@
+{
+  "unitData" [
+    {
+      "name": "Unit1",
+      "xPos": 10,
+      "yPos": 10,
+      "health": 10
+    },
+    {
+      "name": "Unit2",
+      "xPos": 30,
+      "yPos": 30,
+      "health": 10
+    },
+    {
+      "name": "Unit3",
+      "xPos": 60,
+      "yPos": 80,
+      "health": 10
+    }
+  ]
+}
